@@ -26,7 +26,7 @@ const ResultsSection = ({ result, inputText }: ResultsSectionProps) => {
     const content = `MISINFO SHIELD - ANALYSIS REPORT
 ================================
 Date: ${new Date().toLocaleString()}
-Risk Score: ${result.risk_score}/100
+Risk Score: ${result.risk_score*10}/100
 Verdict: ${result.verdict}
 Language: ${result.detected_language}
 
