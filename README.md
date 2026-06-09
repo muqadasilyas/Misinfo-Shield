@@ -10,8 +10,8 @@ Misinfo Shield analyzes text, images, and audio to detect scams, fake news, reli
 
 | Layer | Platform | URL |
 |-------|----------|-----|
-| Frontend | Vercel | *(your Vercel URL)* |
-| Backend API | Hugging Face Spaces | *(your HF Space URL)* |
+| Frontend | Vercel | *https://misinfo-shield.vercel.app/* |
+| Backend API | Hugging Face Spaces | *https://huggingface.co/spaces/muqadasilyas/Misinfo-Shield* |
 
 ---
 
