@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+groq
+openai-whisper
+pytesseract
+pillow
+python-multipart
+ffmpeg-python
+torch
